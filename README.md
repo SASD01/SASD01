@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/SASD01/Ingenieria-de-Software/blob/main/Sergio.jpeg?raw=true"  />
+  <img height="500" src="https://github.com/SASD01/Ingenieria-de-Software/blob/main/Sergio.jpeg?raw=true"  />
 </div>
 
 ###
