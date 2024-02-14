@@ -83,6 +83,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SASD01/SASD01/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SASD01/count.svg?"  />
+</div>
 
 ###
