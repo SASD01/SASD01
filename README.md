@@ -8,9 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://drive.google.com/file/d/1wHmWOoSrJx7DMFuAqFsZ8TNTtiyzFUos/view?usp=drive_link"  />
-
 ###
 
 <div align="center">
@@ -68,7 +65,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/SASD01/SASD01/output/snake.svg" alt="Snake animation" />
-
 ###
