@@ -1,6 +1,4 @@
 <h1 align="center">¡Hi there!👋 <br>My name is Sergio A | I'm a FullStack Developer. 💻<br>I'm from Colombia. 🚏💥</h1>
-###
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
   <img width="12" />
